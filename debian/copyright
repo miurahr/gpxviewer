@@ -1,0 +1,18 @@
+Format-Specification: http://wiki.debian.org/Proposals/CopyrightFormat?action=recall&rev=455
+Upstream-Name: GPX Viewer
+Upstream-Source: http://andrewgee.org/downloads/gpxviewer/
+Files: *
+Copyright: Copyright 2009, Andrew Gee <andrew@andrewgee.org>
+License: GPL-3+
+ On Debian systems the full text of the GNU General Public License can be found
+ in the `/usr/share/common-licenses/GPL-3' file.
+Files: debian/*
+Copyright: Copyright 2009, Andrew Gee <andrew@andrewgee.org>
+License: GPL-3+
+ On Debian systems the full text of the GNU General Public License can be found
+ in the `/usr/share/common-licenses/GPL-3' file.
+Files: po/*.po
+Copyright: Copyright (c) 2009 Rosetta Contributors and Canonical Ltd 2009
+License: GPL-3+
+ On Debian systems the full text of the GNU General Public License can be found
+ in the `/usr/share/common-licenses/GPL-3' file.
