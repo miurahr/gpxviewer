@@ -1,3 +1,9 @@
+gpxviewer (0.1.5-m2) lucid; urgency=low
+
+  * merge osm-gps-map 0.7.0 branch 
+
+ -- Hiroshi Miura <miurahr@linux.com>  Sun, 13 Jun 2010 13:33:23 +0900
+
 gpxviewer (0.1.5-m1) lucid; urgency=low
 
   * New upstream release
